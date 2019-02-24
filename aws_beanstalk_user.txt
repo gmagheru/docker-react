@@ -1,8 +1,0 @@
-user
-travis-ci
-
-access key ID
-AKIAJ7QZ5J5WZ4VDUC2A
-
-secret access key
-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
